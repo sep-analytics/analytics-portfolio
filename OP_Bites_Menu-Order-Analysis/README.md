@@ -56,14 +56,10 @@ The analysis aims to:
 ### **Menu KPIs**
 
 - Total number of menu items  
-- Most expensive item  
-- Least expensive item  
+- Total number of Orders Recieved  
 - Number of dishes per category  
 - Average price per category  
-
-### **Sales KPIs**
-
-- Total number of orders received  
+-  Most expensive item and Least expensive item 
 - Total revenue generated  
 
 ---
