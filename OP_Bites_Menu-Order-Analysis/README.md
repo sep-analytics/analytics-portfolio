@@ -123,6 +123,7 @@ Which menu category generates the highest revenue?
 ### **Key Finding**
 The **Italian category** generates the highest total revenue at **$49,463** from **2,948 orders**.  
 The **Korean category** follows closely with **$46,721** in revenue but with a higher total order volume of **3,470 orders**.
+![](https://github.com/sep-analytics/analytics-portfolio/blob/main/OP_Bites_Menu-Order-Analysis/images/Top_ten_category.png)
 ---
 ### **Insight Interpretation**
 Although the Korean category has more orders, the Italian category generates higher total revenue.  
@@ -141,3 +142,26 @@ Position Italian dishes as premium offerings and support them with strategic mar
 Introduce combo meals, add-ons, or slight price adjustments to increase average order value without reducing demand.
 3. **Balance Investment Across Both Categories**  
 Maintain operational support for Korean’s high volume while strategically expanding Italian’s high-revenue advantage to maximize overall profitability.
+
+## **📊 Insight 2: Peak Ordering Time**
+### **Business Question**
+What time of day has peak ordering activity?
+### **Key Finding**
+The highest ordering activity occurs between **12:00 PM – 1:00 PM**, with a total of **3,247 orders** recorded within this time window.
+This represents the single most active ordering period of the day.
+---
+### **Insight Interpretation**
+The 12 PM – 1 PM window clearly represents the **primary demand peak**, most likely driven by lunch-hour traffic.
+This indicates:
+- Strong lunchtime customer behavior  
+- Concentrated operational pressure within a narrow time frame  
+- Potential risk of service bottlenecks during this hour  
+Given that this is a single dominant peak, separating it further may not provide additional strategic value at this stage.
+---
+### **Executive Recommendations**
+1️⃣ **Increase Staffing During 12–1 PM Window**  
+Align kitchen and service staff schedules to ensure faster turnaround time and maintain service quality.
+2️⃣ **Pre-Prep High-Demand Items Before Noon**  
+Use historical item-level demand to anticipate top lunch sellers and reduce preparation delays.
+3️⃣ **Introduce Lunch Combos or Express Offers**  
+Capitalize on peak traffic by designing quick-serve bundles to increase average order value while maintaining operational efficiency.
