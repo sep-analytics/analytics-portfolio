@@ -111,6 +111,6 @@ This analysis enables management to:
 - Improve pricing strategies  
 - Reduce revenue concentration risk  
 - Increase average order value  
-- Identify premium customer purchasing behavior  
+- Identify premium customer purchasing behavior
 
 
