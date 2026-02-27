@@ -146,6 +146,16 @@ UNION ALL
        FROM Pct_Contribution
        ORDER BY Item_Revenue DESC;
        
-
-         
-         
+#Identify orders whose total value is above the average order value? (Find high-value purchasing behavior/Managers want to study premium orders)
+     SELECT * 
+ FROM (
+     SELECT 
+        o.order_id AS Orders,
+        sum(m.price) AS Order_value,
+        round(avg(sum(m.price)) OVER(), 2) AS avg_Price_per_order
+    FROM order_details o
+    LEFT JOIN menu_items m ON m.menu_item_id = o.item_id
+    GROUP BY o.order_id
+) AS order_summary
+ WHERE Order_value > avg_Price_per_order
+ ORDER BY Order_value DESC;
