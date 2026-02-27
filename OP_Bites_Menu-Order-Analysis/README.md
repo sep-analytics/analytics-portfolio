@@ -1,4 +1,4 @@
-# **🍽️ O/P Bites Menu–Order Analysis**
+# ** O/P Bites Menu–Orders Analysis**
 
 **📍 Location:** Bay Metropolis *(Simulated Case Study)*  
 **🛠 Tools Used:** SQL  
@@ -68,7 +68,7 @@ The analysis aims to:
 
 ---
 
-## **🔎 Business Questions Answered**
+## ** Business Questions Answered**
 
 - Which menu category generates the highest revenue?  
 - What are the least ordered menu items?  
