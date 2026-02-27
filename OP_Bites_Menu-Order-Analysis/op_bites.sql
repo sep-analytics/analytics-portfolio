@@ -1,10 +1,10 @@
 SELECT * FROM restaurant_db.menu_items;
 #KPIS
 #Total Numbers of Distinct Orders
-        SELECT count(distinct order_id)
+        SELECT format(count(distinct order_id),0)
         FROM   order_details;
 #Total Revenue 
-	    SELECT sum(m.price)
+	    SELECT format(sum(m.price),0)
            FROM order_details o
           JOIN menu_items m 
 		  ON o.item_id=m.menu_item_id;
@@ -26,7 +26,7 @@ UNION ALL
 	
 /* Business Analysis */
 #What are the top 10 revenue-generating menu items?:(Identify products driving profitability)
-		SELECT  m.item_name, sum(m.price) as Revenue , count(o.item_id) as "Total orders"
+		SELECT  m.item_name, format(sum(m.price),0) as Revenue , format(count(o.item_id),0) as "Total orders"
 		FROM  menu_items m
 		LEFT JOIN  order_details o
 		ON m.menu_item_id=o.item_id
@@ -35,7 +35,7 @@ UNION ALL
 		LIMIT 10;
 		
 #Which menu category generates the highest total revenue?:(We want to understand which cuisine/category deserves investment)
-		SELECT  m.category, sum(m.price) as Revenue , count(o.item_id) as "Total orders"
+		SELECT  m.category, format(sum(m.price),0) as Revenue , format(count(o.item_id),0) as "Total orders"
 		FROM  menu_items m
 		LEFT JOIN  order_details o
 		ON m.menu_item_id=o.item_id
@@ -57,6 +57,7 @@ UNION ALL
 			SELECT order_id, count(*) as item_count
             FROM order_details
             GROUP BY order_id) AS order_basket;
+            
          
 # Which days have the highest number of orders?:( We want to optimize staffing and inventory planning)
 		SELECT dayname(order_date) AS Day_of_week, count(order_details_id) AS Number_of_orders
