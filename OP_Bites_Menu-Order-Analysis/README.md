@@ -55,7 +55,8 @@ The analysis aims to:
 
 ### **Menu KPIs**
 
-- Total number of menu items  
+- Total number of menu items
+  ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/OP_Bites_Menu-Order-Analysis/images/number_of_menu_items.png) 
 - Total number of Orders Recieved  
 - Number of dishes per category  
 - Average price per category  
