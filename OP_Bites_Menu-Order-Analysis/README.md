@@ -128,8 +128,8 @@ The **Korean category** follows closely with **$46,721** in revenue but with a h
 ### **Insight Interpretation**
 Although the Korean category has more orders, the Italian category generates higher total revenue.  
 This suggests:
-- Italian items likely have a **higher average selling price**
-- Korean items may rely more on **high volume sales**
+- Italian items  have a **higher average selling price**
+- Korean items rely more on **high volume sales**
 - Revenue leadership is driven by pricing strength rather than order frequency
 This distinction highlights two different performance models:
 - **Premium-driven revenue (Italian)**
