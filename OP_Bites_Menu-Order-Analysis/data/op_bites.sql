@@ -1,5 +1,8 @@
 SELECT * FROM restaurant_db.menu_items;
 #KPIS
+#Total Numbers of Menu Items
+        SELECT count(*) AS "#Menu_items"
+        FROM   menu_items;
 #Total Numbers of Distinct Orders
         SELECT format(count(distinct order_id),0) AS "#Total Orders"
         FROM   order_details;
@@ -23,7 +26,12 @@ UNION ALL
           FROM menu_items
           ORDER BY price ASC
 		  LIMIT 1);         
-	
+	#Total Number of dishes per category
+          SELECT category ,
+          count(*) AS "#Dish_per_Category"
+          FROM  menu_items
+          GROUP BY category;
+          
 /* Business Analysis */
 #What are the top 10 revenue-generating menu items?:(Identify products driving profitability)
 		SELECT  m.item_name, concat("$",format(sum(m.price),0)) as Revenue , format(count(o.item_id),0) as "Total orders"
