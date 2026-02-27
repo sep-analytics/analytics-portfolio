@@ -114,8 +114,7 @@ This analysis enables management to:
 - Reduce revenue concentration risk  
 - Increase average order value  
 - Identify premium customer purchasing behavior
----
-##**Insights**
+
 ## **📊 Insight 1: Revenue Performance by Menu Category**
 
 ### **Business Question**
