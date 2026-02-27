@@ -58,7 +58,7 @@ The analysis aims to:
 - Total number of menu items
   ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/OP_Bites_Menu-Order-Analysis/images/number_of_menu_items.png) 
 - Total number of Orders Recieved
-  ![]{https://github.com/sep-analytics/analytics-portfolio/blob/main/OP_Bites_Menu-Order-Analysis/images/%23Total_orders.png}
+  ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/OP_Bites_Menu-Order-Analysis/images/%23Total_orders.png)
 - Number of dishes per category  
 - Average price per category  
 -  Most expensive item and Least expensive item 
