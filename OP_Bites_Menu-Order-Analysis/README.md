@@ -114,5 +114,31 @@ This analysis enables management to:
 - Reduce revenue concentration risk  
 - Increase average order value  
 - Identify premium customer purchasing behavior
+---
+##**Insights**
+## **📊 Insight 1: Revenue Performance by Menu Category**
 
+### **Business Question**
+Which menu category generates the highest revenue?
 
+### **Key Finding**
+The **Italian category** generates the highest total revenue at **$49,463** from **2,948 orders**.  
+The **Korean category** follows closely with **$46,721** in revenue but with a higher total order volume of **3,470 orders**.
+---
+### **Insight Interpretation**
+Although the Korean category has more orders, the Italian category generates higher total revenue.  
+This suggests:
+- Italian items likely have a **higher average selling price**
+- Korean items may rely more on **high volume sales**
+- Revenue leadership is driven by pricing strength rather than order frequency
+This distinction highlights two different performance models:
+- **Premium-driven revenue (Italian)**
+- **Volume-driven revenue (Korean)**
+---
+### **Executive Recommendations**
+1. **Strengthen Italian as a Premium Anchor Category**  
+Position Italian dishes as premium offerings and support them with strategic marketing to maintain high-margin performance.
+2. **Optimize Korean Category for Upselling Opportunities**  
+Introduce combo meals, add-ons, or slight price adjustments to increase average order value without reducing demand.
+3. **Balance Investment Across Both Categories**  
+Maintain operational support for Korean’s high volume while strategically expanding Italian’s high-revenue advantage to maximize overall profitability.
