@@ -137,7 +137,7 @@ This distinction highlights two different performance models:
 - **Premium-driven revenue (Italian)**
 - **Volume-driven revenue (Asian)**
 ---
-### **Executive Recommendations**
+### **Recommendations**
 1. **Strengthen Italian as a Premium Anchor Category**  
 Position Italian dishes as premium offerings and support them with strategic marketing to maintain high-margin performance.
 2. **Optimize Asian Category for Upselling Opportunities**  
@@ -160,7 +160,7 @@ This indicates:
 - Potential risk of service bottlenecks during this hour  
 Given that this is a single dominant peak, separating it further may not provide additional strategic value at this stage.
 ---
-### **Executive Recommendations**
+### **Recommendations**
 1. **Increase Staffing During 12–1 PM Window**  
 Align kitchen and service staff schedules to ensure faster turnaround time and maintain service quality.
 2. **Pre-Prep High-Demand Items Before Noon**  
@@ -168,7 +168,39 @@ Use historical item-level demand to anticipate top lunch sellers and reduce prep
 3. **Introduce Lunch Combos or Express Offers**  
 Capitalize on peak traffic by designing quick-serve bundles to increase average order value while maintaining operational efficiency
 
-## **📊 Insight 3: Least Ordered Menu Items**
+## **📊 Insight 3: Order Volume by Day**
+
+### **Business Question**
+Which days have the highest order volume?
+### **Key Findings**
+The day with the highest total order volume is:
+- **Monday** – 2,010 orders  
+Other high-performing days include:
+- **Friday** – 1,822 orders  
+- **Tuesday** – 1,788 orders  
+- **Sunday** – 1,776 orders  
+Although Monday leads, order volumes remain relatively strong across multiple days of the week.
+
+
+![](https://github.com/sep-analytics/analytics-portfolio/blob/main/OP_Bites_Menu-Order-Analysis/images/Daily_Trend.png)
+---
+### **Insight Interpretation**
+Monday emerging as the top-performing day challenges the common assumption that weekends always dominate restaurant traffic.
+This suggests:
+- Strong weekday demand, possibly driven by work-related lunch traffic  
+- Stable demand distribution rather than extreme weekend spikes  
+- Consistent operational pressure throughout the week  
+The relatively small gap between Monday and other high-performing days indicates that demand is not heavily concentrated on a single day.
+---
+### **Recommendations**
+1. **Maintain Balanced Staffing Across Peak Days**  
+Avoid over-allocating resources only to weekends; ensure strong staffing coverage on Mondays and Fridays.
+2. **Leverage Monday Momentum for Promotions**  
+Introduce loyalty or upsell campaigns early in the week to maximize already high traffic.
+3. **Analyze Weekday vs Weekend Item Mix**  
+Study product-level demand by day to optimize inventory planning and targeted marketing strategies.
+
+## **📊 Insight 4: Least Ordered Menu Items**
 
 ### **Business Question**
 What are the least ordered menu items?
@@ -195,8 +227,7 @@ Persistent low sales can also increase:
 - Ingredient spoilage risk  
 - Menu complexity  
 ---
-### **Executive Recommendations**
-
+### **Recommendations**
 1. **Conduct Menu Engineering Review**  
 Evaluate pricing, positioning, and description of these items to determine whether redesign or repositioning can improve demand.
 2. **Test Limited-Time Promotions Before Removal**  
