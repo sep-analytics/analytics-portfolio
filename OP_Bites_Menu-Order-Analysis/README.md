@@ -6,7 +6,7 @@
 
 ---
 
-## **📌 Executive Summary**
+## **📌 Project Summary**
 
 This project analyzes restaurant menu and transactional order data for **O/P Bites**, a simulated restaurant business case, to uncover revenue drivers, customer purchasing behavior, and operational performance patterns.
 
@@ -123,10 +123,12 @@ Which menu category generates the highest revenue?
 ### **Key Finding**
 The **Italian category** generates the highest total revenue at **$49,463** from **2,948 orders**.  
 The **Asian category** follows closely with **$46,721** in revenue but with a higher total order volume of **3,470 orders**.
+
+
 -![](https://github.com/sep-analytics/analytics-portfolio/blob/main/OP_Bites_Menu-Order-Analysis/images/revenue%20_category.png)
 ---
 ### **Insight Interpretation**
-Although the Korean category has more orders, the Italian category generates higher total revenue.  
+Although the Asian category has more orders, the Italian category generates higher total revenue.  
 This suggests:
 - Italian items  have a **higher average selling price**
 - Asians items rely more on **high volume sales**
