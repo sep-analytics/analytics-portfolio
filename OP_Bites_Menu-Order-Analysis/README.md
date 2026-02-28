@@ -159,9 +159,9 @@ This indicates:
 Given that this is a single dominant peak, separating it further may not provide additional strategic value at this stage.
 ---
 ### **Executive Recommendations**
-1️⃣ **Increase Staffing During 12–1 PM Window**  
+1. **Increase Staffing During 12–1 PM Window**  
 Align kitchen and service staff schedules to ensure faster turnaround time and maintain service quality.
-2️⃣ **Pre-Prep High-Demand Items Before Noon**  
+2. **Pre-Prep High-Demand Items Before Noon**  
 Use historical item-level demand to anticipate top lunch sellers and reduce preparation delays.
-3️⃣ **Introduce Lunch Combos or Express Offers**  
+3. **Introduce Lunch Combos or Express Offers**  
 Capitalize on peak traffic by designing quick-serve bundles to increase average order value while maintaining operational efficiency.
