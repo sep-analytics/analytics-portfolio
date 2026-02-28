@@ -166,4 +166,40 @@ Align kitchen and service staff schedules to ensure faster turnaround time and m
 2. **Pre-Prep High-Demand Items Before Noon**  
 Use historical item-level demand to anticipate top lunch sellers and reduce preparation delays.
 3. **Introduce Lunch Combos or Express Offers**  
-Capitalize on peak traffic by designing quick-serve bundles to increase average order value while maintaining operational efficiency.
+Capitalize on peak traffic by designing quick-serve bundles to increase average order value while maintaining operational efficiency
+
+## **📊 Insight 3: Least Ordered Menu Items**
+
+### **Business Question**
+What are the least ordered menu items?
+### **Key Findings**
+The following items recorded the lowest order volumes:
+- **Chicken Tacos** – 123 orders  
+- **Potstickers** – 205 orders  
+- **Cheese Lasagna** – 207 orders  
+- **Steak Tacos** – 214 orders  
+- **Cheese Quesadillas** – 233 orders
+
+- ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/OP_Bites_Menu-Order-Analysis/images/least%20ordered.png)  
+These items represent the weakest performers in terms of customer demand.
+---
+### **Insight Interpretation**
+Low order frequency may indicate:
+- Limited customer preference  
+- Pricing misalignment  
+- Poor menu visibility or placement  
+- Strong internal competition from similar items  
+For example, having both **Chicken Tacos** and **Steak Tacos** among the least ordered items may suggest weak demand for tacos overall, or preference shifting toward alternative protein options.
+Persistent low sales can also increase:
+- Inventory holding costs  
+- Ingredient spoilage risk  
+- Menu complexity  
+---
+### **Executive Recommendations**
+
+1. **Conduct Menu Engineering Review**  
+Evaluate pricing, positioning, and description of these items to determine whether redesign or repositioning can improve demand.
+2. **Test Limited-Time Promotions Before Removal**  
+Introduce discounts, bundles, or combo offers to validate whether demand can be stimulated.
+3. **Streamline the Menu if Performance Remains Weak**  
+If low performance persists, consider removing or replacing these items to reduce operational complexity and improve inventory efficiency.
