@@ -240,7 +240,7 @@ Do higher-priced items sell less frequently?
 ### **Key Finding**
 An evaluation of the top 10 highest-priced menu items shows **no strong negative relationship between price and demand**.
 
-
+![](https://github.com/sep-analytics/analytics-portfolio/blob/main/OP_Bites_Menu-Order-Analysis/images/price_vs_demand.png)
 Among these premium-priced dishes:
 - Only a small portion recorded low order volumes  
 - Several high-priced items maintained strong sales performance  
