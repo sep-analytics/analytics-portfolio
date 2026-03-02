@@ -5,19 +5,22 @@
 **📊 Analysis Type:** Business Intelligence & Revenue Analytics  
 
 ---
+## **📌 Executive Summary**
 
-## **📌 Project Summary**
+This analysis evaluates three months of transactional and menu data for O/P Bites, a simulated restaurant operating in Bay Metropolis, with the objective of identifying revenue drivers, demand patterns, and operational performance trends.
 
-This project analyzes restaurant menu and transactional order data for **O/P Bites**, a simulated restaurant business case, to uncover revenue drivers, customer purchasing behavior, and operational performance patterns.
+Key insights from the analysis include:
+- The Italian category generates the highest overall revenue, while the Korean category leads in total order volume, indicating two distinct performance models: premium-driven revenue versus volume-driven revenue.
+- Peak ordering activity occurs between 12 PM – 1 PM, confirming a concentrated lunchtime demand window that drives daily operational pressure.
+- The top five menu items contribute 27.21% of total revenue, revealing moderate revenue concentration and dependence on a small group of flagship products.
+- Higher-priced items did not demonstrate lower demand, suggesting limited price sensitivity within the premium range and strong perceived customer value.
+  
+Overall, the business exhibits stable multi-category performance with identifiable growth opportunities in menu optimization and operational efficiency.
 
-Using SQL-based analytical techniques, the study identifies:
-
-- High-performing menu categories  
-- Revenue concentration risks  
-- Peak demand periods  
-- Pricing–demand relationships  
-
-The analysis demonstrates how raw transactional data can be transformed into actionable business intelligence that supports strategic decision-making.
+### **Strategic Recommendations**
+1. Strengthen and protect high-revenue flagship products while developing mid-performing items to reduce revenue concentration risk.
+2.  Optimize lunchtime operations through targeted staffing, pre-preparation strategies, and bundled offerings to maximize peak-hour revenue.
+3. Maintain strategic premium pricing on strong-performing categories while leveraging volume-driven categories for upselling and cross-selling opportunities.
 
 ## **📂 Data Sourcing & Structure**
 
