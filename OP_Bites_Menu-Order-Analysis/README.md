@@ -19,6 +19,42 @@ Using SQL-based analytical techniques, the study identifies:
 
 The analysis demonstrates how raw transactional data can be transformed into actionable business intelligence that supports strategic decision-making.
 
+## **📂 Data Sourcing & Structure**
+
+### **Data Source**
+- **Provider:** Maven Analytics  
+- **Project Type:** Simulated Restaurant Business Case  
+
+### **Time Period**
+- **January 2023 – March 2023**  
+- Total duration: **3 months**
+
+### **Dataset Overview**
+
+**1. Menu Table**
+- Total Records: 32 rows  
+- Null Values: None  
+- Description: Contains menu item details including category and pricing information.
+
+**2.Orders Table**
+- Total Records: 12,234 rows  
+- Null Values: 137 rows with missing `item_id`  
+- Description: Transaction-level order data capturing customer purchasing activity.
+
+### **Key Fields Used in Analysis**
+
+- `order_id` – Unique transaction identifier  
+- `menu_item` – Name of the menu item  
+- `item_id` – Unique identifier linking orders to menu  
+- `item_category` – Cuisine/category classification  
+- `order_date` – Date of transaction  
+
+### **Data Quality Notes**
+
+- The menu table contained no missing values.  
+- The orders table had 137 missing `item_id` entries, which were handled appropriately during data validation and analysis.  
+- Data was reviewed for consistency before aggregation and performance analysis.
+
 ---
 
 ## **🎯 Business Problem**
