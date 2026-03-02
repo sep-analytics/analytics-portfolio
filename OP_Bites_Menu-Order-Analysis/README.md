@@ -69,9 +69,9 @@ The analysis was conducted using SQL through:
 - Evaluating price vs. demand relationships  
 - Ranking category-level performance metrics
 
-![](https://github.com/sep-analytics/analytics-portfolio/blob/main/OP_Bites_Menu-Order-Analysis/images/cte_window.png)
+![cte](https://github.com/sep-analytics/analytics-portfolio/blob/main/OP_Bites_Menu-Order-Analysis/images/cte_window.png)
 
-![](https://github.com/sep-analytics/analytics-portfolio/blob/main/OP_Bites_Menu-Order-Analysis/images/Aggregates.png)
+
 
 ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/OP_Bites_Menu-Order-Analysis/images/Timestamp.png)
 
