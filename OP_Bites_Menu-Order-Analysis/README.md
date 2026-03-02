@@ -22,15 +22,13 @@ The analysis demonstrates how raw transactional data can be transformed into act
 ---
 
 ## **🎯 Business Problem**
-
 Despite steady customer traffic, management lacked visibility into:
-
 - Revenue drivers  
 - Product performance  
 - Customer purchasing behavior  
 - Peak operational periods  
-- Pricing effectiveness  
-
+- Pricing effectiveness
+- 
 Large volumes of order data existed but were not leveraged for structured decision-making, resulting in reactive rather than data-driven strategies.
 
 ---
@@ -234,3 +232,34 @@ Evaluate pricing, positioning, and description of these items to determine wheth
 Introduce discounts, bundles, or combo offers to validate whether demand can be stimulated.
 3. **Streamline the Menu if Performance Remains Weak**  
 If low performance persists, consider removing or replacing these items to reduce operational complexity and improve inventory efficiency.
+
+## **📊 Insight 5: Price vs Demand Evaluation**
+
+### **Business Question**
+Do higher-priced items sell less frequently?
+### **Key Finding**
+An evaluation of the top 10 highest-priced menu items shows **no strong negative relationship between price and demand**.
+
+
+Among these premium-priced dishes:
+- Only a small portion recorded low order volumes  
+- Several high-priced items maintained strong sales performance  
+- Multiple items priced at similar premium levels showed significantly different demand levels  
+Overall, higher pricing did **not** consistently result in lower order frequency.
+---
+### **Insight Interpretation**
+The data suggests that customers at O/P Bites are **not highly price-sensitive within the premium range**.
+Key observations:
+- Premium pricing does not automatically reduce demand  
+- Certain high-priced items perform strongly, indicating perceived value  
+- Demand appears to be influenced more by product appeal than by price alone  
+This indicates that pricing strategy may already be aligned with customer value perception.
+---
+### **Recommendations**
+1. **Maintain Strategic Premium Pricing on Strong Performers**  
+Avoid unnecessary price reductions on high-performing premium items, as demand remains stable.
+2. **Focus on Value Positioning Rather Than Discounting**  
+Enhance descriptions, presentation, and marketing to reinforce perceived value instead of competing on price.
+3. **Conduct Controlled Price Testing on Mid-Performers**  
+Implement small, data-driven pricing experiments on select items to further validate elasticity behavior.
+
