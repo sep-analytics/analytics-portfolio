@@ -241,6 +241,7 @@ Do higher-priced items sell less frequently?
 An evaluation of the top 10 highest-priced menu items shows **no strong negative relationship between price and demand**.
 
 ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/OP_Bites_Menu-Order-Analysis/images/price_vs_demand.png)
+
 Among these premium-priced dishes:
 - Only a small portion recorded low order volumes  
 - Several high-priced items maintained strong sales performance  
@@ -263,3 +264,26 @@ Enhance descriptions, presentation, and marketing to reinforce perceived value i
 3. **Conduct Controlled Price Testing on Mid-Performers**  
 Implement small, data-driven pricing experiments on select items to further validate elasticity behavior.
 
+## **📊 Insight 6: Revenue Concentration Risk**
+### **Business Question**
+What percentage of total revenue comes from the top 5 items?
+
+### **Key Finding**
+The top five revenue-generating menu items collectively contribute **27.21% of total revenue**.
+These items represent a significant portion of overall sales performance, indicating moderate revenue concentration within a small subset of products.
+---
+### **Insight Interpretation**
+With over one-quarter of total revenue driven by just five items, O/P Bites demonstrates a **noticeable but not extreme dependency** on a limited group of top performers.
+This suggests:
+- Strong flagship products driving consistent revenue  
+- Potential vulnerability if demand for these items declines  
+- Opportunity to replicate the success pattern across other menu items  
+The concentration level indicates performance strength but also highlights the importance of revenue diversification.
+---
+### **Recommendations**
+1. **Protect and Promote Top Performers**  
+Ensure consistent quality, availability, and visibility of these high-revenue items to maintain stability.
+2. **Develop Supporting “Rising Star” Items**  
+ Identify mid-performing dishes with growth potential and strategically promote them to reduce reliance on the top five.
+3. **Monitor Revenue Dependency Quarterly**  
+Establish regular revenue concentration tracking to prevent over-dependence on a small product subset.
