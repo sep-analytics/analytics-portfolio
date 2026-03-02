@@ -28,7 +28,6 @@ Despite steady customer traffic, management lacked visibility into:
 - Customer purchasing behavior  
 - Peak operational periods  
 - Pricing effectiveness
-- 
 Large volumes of order data existed but were not leveraged for structured decision-making, resulting in reactive rather than data-driven strategies.
 
 ---
@@ -287,3 +286,43 @@ Ensure consistent quality, availability, and visibility of these high-revenue it
  Identify mid-performing dishes with growth potential and strategically promote them to reduce reliance on the top five.
 3. **Monitor Revenue Dependency Quarterly**  
 Establish regular revenue concentration tracking to prevent over-dependence on a small product subset.
+
+## **📊 Insight 7: Category-Level Product Performance**
+
+### **Business Question**
+How do top-performing products compare within each category?
+### **Key Finding**
+Each menu category shows a clear internal performance hierarchy, with the top-ranked item significantly outperforming lower-ranked items. However, the strength of performance distribution varies by category.
+Notably:
+
+![](https://github.com/sep-analytics/analytics-portfolio/blob/main/OP_Bites_Menu-Order-Analysis/images/Top3_category.png)
+
+- The **American category** is heavily driven by its top two products, which substantially outperform the third-ranked item.
+- The **Asian category** demonstrates the strongest overall category performance, with a dominant category leader and strong supporting items.
+- The **Italian category** shows relatively balanced contribution among its top three items, indicating diversified internal demand.
+- The **Mexican category** shows moderate performance spread, with a clear top item but less aggressive dominance compared to Asian.
+--
+
+### **Insight Interpretation**
+This analysis reveals differences in internal category structure:
+- **American** revenue is concentrated in two flagship items, creating internal dependency within the category.
+- **Asian** appears to be the most robust and scalable category, with strong layered performance.
+- **Italian** benefits from balanced demand across multiple dishes, reducing internal risk.
+- **Mexican** shows potential for growth but lacks a breakout performer matching other categories.
+The uneven performance structure in the American category suggests that its third-ranked item plays a significantly smaller revenue role, highlighting an internal imbalance.
+---
+### **Recommendations**
+1. **Strengthen Supporting Items in the American Category**  
+Develop promotional strategies or bundle offerings to elevate the third-ranked item and reduce reliance on the top two products.
+2. **Leverage Asian Category as a Strategic Growth Driver**  
+Allocate marketing and operational focus to expand its already strong multi-product performance.
+3. **Replicate Balanced Category Strategy Across All Segments**  
+Use the Italian category as a structural model for maintaining diversified revenue contribution within categories.
+
+
+## **📌 Conclusion**
+
+This analysis successfully addressed the core project objectives by transforming transactional menu and order data into actionable business intelligence for O/P Bites.
+The findings identified revenue-leading categories, highlighted underperforming menu items, and revealed structured category-level product hierarchies driven by clear flagship products. Demand analysis showed strong lunchtime concentration and consistent weekday performance, supporting operational planning decisions.  
+Price–demand evaluation indicated limited price sensitivity within premium offerings, while revenue concentration analysis revealed moderate dependence on top-performing items emphasizing both strength and diversification opportunities.
+Overall, the project demonstrates how structured SQL analysis can support data-driven decision-making across revenue optimization, operational efficiency, pricing strategy, and product performance management.
