@@ -56,6 +56,27 @@ The analysis demonstrates how raw transactional data can be transformed into act
 - Data was reviewed for consistency before aggregation and performance analysis.
 
 ---
+## **🧠 Analytical Approach**
+
+The analysis was conducted using SQL through:
+
+- Data exploration and validation  
+- Joining menu and order tables  
+- Aggregating revenue by category and item  
+- Applying window functions (`ROW_NUMBER()`, `RANK()`, `SUM() OVER()`, `AVG() OVER()`)  
+- Using Common Table Expressions (CTEs) for structured calculations  
+- Performing time-based trend analysis  
+- Evaluating price vs. demand relationships  
+- Ranking category-level performance metrics
+
+
+
+
+
+
+
+   
+---
 
 ## **🎯 Business Problem**
 Despite steady customer traffic, management lacked visibility into:
@@ -118,21 +139,6 @@ The analysis aims to:
 - What are the top 3 best-selling items within each category?  
 - What percentage of total revenue does each menu item contribute?  
 - Which orders have a total value above the average order value?  
-
----
-
-## **🧠 Analytical Approach**
-
-The analysis was conducted using SQL through:
-
-- Data exploration and validation  
-- Joining menu and order tables  
-- Aggregating revenue by category and item  
-- Applying window functions (`ROW_NUMBER()`, `RANK()`, `SUM() OVER()`, `AVG() OVER()`)  
-- Using Common Table Expressions (CTEs) for structured calculations  
-- Performing time-based trend analysis  
-- Evaluating price vs. demand relationships  
-- Ranking category-level performance metrics  
 
 ---
 
