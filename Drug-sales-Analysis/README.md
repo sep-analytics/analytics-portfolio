@@ -63,6 +63,8 @@ Contains product-level information.
 - `unit_sales_price`
 - `cost_of_production`
 Used for revenue, cost, and profit calculations.
+
+![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/pquery_drugs.png)
 ---
 ### **📌 Dimension Table: Customer**
 Contains customer demographic and geographic attributes.
@@ -74,6 +76,8 @@ Contains customer demographic and geographic attributes.
 - `country`
 - `age_group` *(Derived column created in Power Query)*
 The `age_group` column was generated using conditional logic to enable demographic segmentation.
+
+![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/customer_pquery.png)
 ---
 ### **📌 Dimension Table: Calendar**
 Derived from the `sale_date` field to enable time intelligence analysis.
@@ -112,20 +116,24 @@ All relationships are configured with single-direction filtering from dimension 
 
 - **Total Profit**  
   Net earnings generated from sales, calculated as *Total Revenue − Total Cost*.
+  
   ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/profit_measure.png)
 
 - **Profit Margin**  
   Percentage of revenue retained as profit, calculated as *(Total Profit ÷ Total Revenue)*.
-  ![]()
+  ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/profit_margin.png)
 
 - **Total Units Sold**  
   Total quantity of drugs sold across all transactions.
+  ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/measure_quantiysold.png)
 
 - **Transaction Count**  
   Total number of sales transactions recorded.
+  ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/measure_transactions.png)
 
 - **Month-over-Month (MoM) Revenue Change**  
   Percentage change in revenue compared to the previous month.
+  ![]()
 
 - **Contribution %**  
   The percentage share of revenue contributed by a specific drug, customer, or segment relative to total revenue.
