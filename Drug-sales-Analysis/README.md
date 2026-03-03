@@ -158,7 +158,23 @@ Although transactional sales data was available, there was no integrated analyti
 - Analyze geographic sales concentration
 - Understand transaction and weekday sales behavior
 Without an interactive reporting solution, decision-making was largely reactive, limiting the organization’s ability to optimize revenue, improve customer targeting, and monitor operational performance effectively.
+
 To address these challenges, a multi-dashboard Power BI solution was developed to transform raw sales data into structured, actionable business intelligence.
-  
+
+## **📊 Project Objectives**
+
+The primary objective of this project is to design and implement a structured business intelligence solution that transforms raw pharmaceutical sales data into actionable insights for performance monitoring and strategic decision-making.
+
+Specifically, the project aims to:
+
+- Develop an interactive Power BI dashboard system for monitoring revenue, cost, profit, and margin performance.
+- Identify top- and bottom-performing drugs and customers using dynamic contribution analysis.
+- Analyze customer demographics and geographic distribution to support targeted sales strategies.
+- Evaluate revenue concentration across products and regions to assess dependency risk.
+- Monitor yearly, quarterly, monthly, and weekday sales trends to detect performance patterns.
+- Enable month-over-month revenue comparison to support continuous performance tracking.
+- Establish a scalable star-schema data model optimized for analytical efficiency and future expansion.
+
+Overall, the objective is to enhance data visibility, improve analytical accuracy, and provide a centralized reporting framework that supports proactive business decisions.  
 
 
