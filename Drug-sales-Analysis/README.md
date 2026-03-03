@@ -238,3 +238,9 @@ This enables improved forecasting, demand planning, and capacity optimization.
 - Clear high- and low-performance day patterns support optimized inventory allocation and promotional timing strategies.
   
 For full interactivity, detailed DAX measures, and complete data modeling structure, please refer to the attached Power BI (.pbix) file included in this repository.
+
+![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/top_bottom_dashboard.png)
+
+![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/customer_dashboard.png)
+
+![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/Time_series_dashboard.png)
