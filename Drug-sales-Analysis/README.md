@@ -119,23 +119,28 @@ All relationships are configured with single-direction filtering from dimension 
   
   ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/profit_measure.png)
 
-- **Profit Margin**  
+- **Profit Margin**
+-   
   Percentage of revenue retained as profit, calculated as *(Total Profit ÷ Total Revenue)*.
   ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/profit_margin.png)
 
-- **Total Units Sold**  
+- **Total Units Sold**
+- 
   Total quantity of drugs sold across all transactions.
   ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/measure_quantiysold.png)
 
 - **Transaction Count**  
   Total number of sales transactions recorded.
+  
   ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/measure_transactions.png)
 
 - **Month-over-Month (MoM) Revenue Change**  
   Percentage change in revenue compared to the previous month.
-  ![]()
+  
+  ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/mom_cahnge.png)
 
 - **Contribution %**  
   The percentage share of revenue contributed by a specific drug, customer, or segment relative to total revenue.
+  
 *(Screenshots and measure definitions provided below in the documentation.)
 
