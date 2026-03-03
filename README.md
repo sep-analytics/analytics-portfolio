@@ -42,11 +42,7 @@ This project demonstrates how transactional data can be leveraged to support str
 📍 **Healthcare Business Intelligence Case Study**  
 [View Project](./Drug-sales-Analysis)
 
----
-
 A comprehensive **Power BI dashboard project** analyzing pharmaceutical sales data to uncover revenue performance, customer behavior, and transaction trends across multiple dimensions.
-
----
 
 ### **Project Focus Areas**
 - Overall sales performance metrics *(Revenue, COGS, Profit, Profit Margin)* with month-over-month comparisons  
@@ -56,14 +52,12 @@ A comprehensive **Power BI dashboard project** analyzing pharmaceutical sales da
 - Yearly, quarterly, and monthly revenue trend analysis  
 - Transaction volume and weekday sales behavior  
 
----
-
 This project demonstrates the ability to transform raw healthcare sales data into interactive business intelligence dashboards that support strategic decision-making in:
-
 - Revenue optimization  
 - Customer segmentation  
 - Performance monitoring
-  
+
+  ---
 ## 📈 Portfolio Focus  
 
 This portfolio demonstrates my ability to:
