@@ -127,6 +127,7 @@ All relationships are configured with single-direction filtering from dimension 
 - **Total Units Sold**
 - 
   Total quantity of drugs sold across all transactions.
+  
   ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/measure_quantiysold.png)
 
 - **Transaction Count**  
@@ -140,7 +141,13 @@ All relationships are configured with single-direction filtering from dimension 
   ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/mom_cahnge.png)
 
 - **Contribution %**  
-  The percentage share of revenue contributed by a specific drug, customer, or segment relative to total revenue.
+  The percentage share of revenue contributed by a specific country, customer, or segment relative to total revenue
+
+  ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/age_group.png)
+
+  ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/top2_country.png)
+
   
-*(Screenshots and measure definitions provided below in the documentation.)
+  
+
 
