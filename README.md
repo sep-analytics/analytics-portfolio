@@ -38,24 +38,32 @@ This project demonstrates how transactional data can be leveraged to support str
 
 ---
 
-💊 Drug Sales Performance Dashboard  
-📍 Healthcare Business Intelligence Case Study  
-[View Project](./Drug-sales-Analysis) 
+### **💊 Drug Sales Performance Dashboard**  
+📍 **Healthcare Business Intelligence Case Study**  
+[View Project](./Drug-sales-Analysis)
 
-A comprehensive Power BI dashboard project analyzing pharmaceutical sales data to uncover revenue performance, customer behavior, and transaction trends across multiple dimensions.
+---
 
-The project consists of three analytical dashboards focused on:
+A comprehensive **Power BI dashboard project** analyzing pharmaceutical sales data to uncover revenue performance, customer behavior, and transaction trends across multiple dimensions.
 
-Overall sales performance metrics (Revenue, COGS, Profit, Profit Margin) with month-over-month comparisons  
-Top and bottom performing drugs and customers with contribution analysis  
-Customer demographics including revenue distribution by country, gender, and age group  
-Geographical revenue concentration insights  
-Yearly, quarterly, and monthly revenue trend analysis  
-Transaction volume and weekday sales behavior  
+---
 
-This project demonstrates the ability to transform raw healthcare sales data into interactive business intelligence dashboards that support strategic decision-making in revenue optimization, customer segmentation, and performance monitoring.
+### **Project Focus Areas**
+- Overall sales performance metrics *(Revenue, COGS, Profit, Profit Margin)* with month-over-month comparisons  
+- Top and bottom performing drugs and customers with contribution analysis  
+- Customer demographics including revenue distribution by country, gender, and age group  
+- Geographical revenue concentration insights  
+- Yearly, quarterly, and monthly revenue trend analysis  
+- Transaction volume and weekday sales behavior  
 
+---
 
+This project demonstrates the ability to transform raw healthcare sales data into interactive business intelligence dashboards that support strategic decision-making in:
+
+- Revenue optimization  
+- Customer segmentation  
+- Performance monitoring
+  
 ## 📈 Portfolio Focus  
 
 This portfolio demonstrates my ability to:
