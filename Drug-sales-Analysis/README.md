@@ -38,6 +38,8 @@ The model consists of one central fact table connected to multiple dimension tab
 - **Fact Table:** Sales  
 - **Dimension Tables:** Drug Lookup, Customer, Calendar  
 This structure enables efficient aggregation, filtering, and slicing across multiple business dimensions.
+
+![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/data_model.png)
 ---
 ### **📌 Fact Table: Sales**
 Contains transaction-level data.
@@ -48,6 +50,8 @@ Contains transaction-level data.
 - `units_sold`
 - `sale_date`
 - `buyer_type` *(User / Seller)*
+
+  ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/pquery_facts.png)
 This table serves as the central performance measurement table.
 ---
 ### **📌 Dimension Table: Drug Lookup**
@@ -97,15 +101,33 @@ All relationships are configured with single-direction filtering from dimension 
 - Time intelligence enabled through a dedicated calendar table
 ---
 ### **📊 Measures**
-Core business measures were created using DAX, including:
-- Total Revenue
-- Total Cost (COGS)
-- Total Profit
-- Profit Margin
-- Total Units Sold
-- Transaction Count
-- Month-over-Month Revenue Change
-- Contribution %
+### **📊 Core Business Measures (DAX Definitions)**
+- **Total Revenue**  
+  Total sales generated, calculated as *Units Sold × Unit Sales Price*.
+  ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/measure_revenue.png)
 
+- **Total Cost (COGS)**  
+  Total production cost associated with sold units, calculated as *Units Sold × Cost of Production*.
+  ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/measures_cogs.png)
+
+- **Total Profit**  
+  Net earnings generated from sales, calculated as *Total Revenue − Total Cost*.
+  ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/profit_measure.png)
+
+- **Profit Margin**  
+  Percentage of revenue retained as profit, calculated as *(Total Profit ÷ Total Revenue)*.
+  ![]()
+
+- **Total Units Sold**  
+  Total quantity of drugs sold across all transactions.
+
+- **Transaction Count**  
+  Total number of sales transactions recorded.
+
+- **Month-over-Month (MoM) Revenue Change**  
+  Percentage change in revenue compared to the previous month.
+
+- **Contribution %**  
+  The percentage share of revenue contributed by a specific drug, customer, or segment relative to total revenue.
 *(Screenshots and measure definitions provided below in the documentation.)
 
