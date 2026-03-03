@@ -177,4 +177,64 @@ Specifically, the project aims to:
 
 Overall, the objective is to enhance data visibility, improve analytical accuracy, and provide a centralized reporting framework that supports proactive business decisions.  
 
+## 📊 Dashboard Overview
 
+### 🧾 Project Summary
+The Drug Sales Analysis Dashboard delivers a comprehensive business intelligence solution for monitoring pharmaceutical sales performance across products, customers, geography, and time.
+Developed in Power BI, the solution enables dynamic filtering by:
+- Month  
+- Year  
+- Buyer Type (Seller vs User)  
+- Top / Bottom Performance Selection  
+
+The primary objective is to identify revenue drivers, profitability trends, customer segmentation patterns, and product performance dynamics to support data-driven decision-making.
+---
+## 🔢 Key Performance Indicators (KPIs)
+The dashboard highlights core financial and operational metrics:
+- **Total Revenue:** $64.67M  
+- **Total Transactions:** 15K  
+- **Total Customers:** 200  
+- **Average Revenue per Customer:** $323K  
+- **February Revenue:** $4.43M  
+- **February Profit Margin:** 81.67%  
+These KPIs provide an immediate snapshot of overall business health, efficiency, and profitability.
+---
+## 🌍 Geographic Insights
+- **65.96% of total revenue** is generated from Canada and Australia.
+- Revenue is geographically concentrated in select high-performing markets.
+This indicates regional dependency and highlights priority markets for sustained investment and strategic expansion.
+---
+## 👥 Customer & Demographic Analysis
+### Revenue by Gender
+- Male: 47%  
+- Female: 32%  
+- Other: 21%  
+### Revenue by Age Group
+- Age groups **51+ and 31–40** contribute **69.3% of total revenue**.
+Revenue performance is strongly driven by mature and mid-career customer segments, indicating defined purchasing power clusters.
+---
+## 💊 Product & Buyer Performance
+### Buyer Type Contribution
+- Sellers: 87.77% ($57M)  
+- Users: 12.23% ($8M)  
+Revenue is predominantly B2B-driven, indicating heavy reliance on reseller channels.
+### Product Concentration
+- Top 3 drugs account for **12.16% of total transactions**.
+- Top 3 customers account for **15.02% of total transactions**.
+This reflects moderate performance concentration without extreme dependency risk.
+---
+## 📈 Time Series & Trend Analysis
+### Revenue Growth
+- Strong upward trend from 2022 to 2023.
+- 2023 revenue reached approximately $62M, indicating sustained growth momentum.
+### Monthly & Quarterly Patterns
+- Clear seasonal revenue fluctuations.
+- Notable month-over-month increases exceeding 20% in peak periods.
+- Q3 recorded the strongest quarterly performance ($17M).
+This enables improved forecasting, demand planning, and capacity optimization.
+---
+## 📅 Operational Insights
+- Weekday sales patterns reveal specific drugs outperform on certain days.
+- Clear high- and low-performance day patterns support optimized inventory allocation and promotional timing strategies.
+  
+For full interactivity, detailed DAX measures, and complete data modeling structure, please refer to the attached Power BI (.pbix) file included in this repository.
