@@ -147,7 +147,18 @@ All relationships are configured with single-direction filtering from dimension 
 
   ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/top2_country.png)
 
-  
+  ## **🎯 Business Problem**
+
+The pharmaceutical sales organization lacked a centralized and structured performance monitoring system to evaluate revenue trends, product performance, and customer behavior across multiple regions and time periods.
+Although transactional sales data was available, there was no integrated analytical framework to:
+- Track overall sales performance and profitability
+- Identify top- and underperforming drugs
+- Evaluate customer contribution and demographic revenue distribution
+- Monitor month-over-month revenue changes
+- Analyze geographic sales concentration
+- Understand transaction and weekday sales behavior
+Without an interactive reporting solution, decision-making was largely reactive, limiting the organization’s ability to optimize revenue, improve customer targeting, and monitor operational performance effectively.
+To address these challenges, a multi-dashboard Power BI solution was developed to transform raw sales data into structured, actionable business intelligence.
   
 
 
