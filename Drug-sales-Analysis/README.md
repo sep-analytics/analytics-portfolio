@@ -244,3 +244,23 @@ For full interactivity, detailed DAX measures, and complete data modeling struct
 ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/customer_dashboard.png)
 
 ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/Drug-sales-Analysis/images/Time_series_dashboard.png)
+
+
+## 📊 Insight 1: Revenue is Primarily Volume-Driven
+### **Observation**
+Monthly analysis indicates a strong positive relationship between **units sold**, **total revenue**, and **total profit**. Periods with higher quantities sold consistently correspond to higher revenue and profit levels.
+### **Insight Interpretation**
+This suggests that overall financial performance is primarily **volume-driven rather than price-driven**.
+In other words:
+- Revenue growth is largely influenced by increased sales volume.
+- Profit expansion follows quantity growth due to stable profit margins.
+- Price levels remain relatively consistent and are not the primary driver of revenue fluctuations.
+This indicates that demand strength — rather than pricing adjustments — is the dominant performance factor across months.
+---
+### **Strategic Recommendations**
+1. **Prioritize Volume Growth Strategies**  
+Focus on expanding sales volume through market expansion, channel optimization, and targeted promotional campaigns.
+2. **Strengthen High-Volume Drug Supply Stability**  
+Ensure inventory and distribution capacity can support demand spikes to avoid lost revenue opportunities.
+3. **Evaluate Volume Elasticity Before Price Adjustments**  
+Since performance is not strongly price-dependent, prioritize demand stimulation strategies before implementing pricing changes.
