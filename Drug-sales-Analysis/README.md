@@ -219,8 +219,8 @@ Revenue performance is strongly driven by mature and mid-career customer segment
 - Users: 12.23% ($8M)  
 Revenue is predominantly B2B-driven, indicating heavy reliance on reseller channels.
 ### Product Concentration
-- Top 3 drugs account for **12.16% of total transactions**.
-- Top 3 customers account for **15.02% of total transactions**.
+- Top 3 drugs account for **14.87% of total transactions**.
+- Top 3 customers account for **24.90% of total transactions**.
 This reflects moderate performance concentration without extreme dependency risk.
 ---
 ## 📈 Time Series & Trend Analysis
@@ -264,3 +264,4 @@ Focus on expanding sales volume through market expansion, channel optimization, 
 Ensure inventory and distribution capacity can support demand spikes to avoid lost revenue opportunities.
 3. **Evaluate Volume Elasticity Before Price Adjustments**  
 Since performance is not strongly price-dependent, prioritize demand stimulation strategies before implementing pricing changes.
+
