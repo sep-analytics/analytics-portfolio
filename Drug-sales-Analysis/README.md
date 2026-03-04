@@ -5,6 +5,24 @@
 
 ----
 
+## 📌 Executive Summary
+
+The Drug Sales Performance Dashboard analyzes pharmaceutical sales data across 2022–2023 to uncover revenue drivers, customer behavior patterns, and market concentration risks.
+### **Key Findings**
+- **Revenue is volume-driven:** Profitability increases proportionally with quantity sold, indicating that sales volume — not pricing — is the primary growth lever.
+- **Seller channel dominance:** The majority of revenue is generated through sellers (B2B), confirming a distribution-led business structure.
+- **Mature demographic concentration:** Within the direct User segment, 68% of revenue comes from customers aged 41+, indicating strong purchasing power among older consumers.
+- **Geographic dependency risk:** 65.96% of total revenue originates from Canada and Australia, highlighting strong core markets but limited diversification.
+- **Operational revenue anchors:** Ergocalciferol and Doxycycline consistently lead weekday transactions, providing stable and predictable demand patterns.
+- **Upward growth trend:** Revenue shows sustained year-over-year growth, with seasonal and quarterly fluctuations supporting capacity planning insights.
+- 
+### **Strategic Focus Areas**
+- Strengthen high-performing geographic markets while expanding secondary regions.
+- Optimize inventory and forecasting around high-volume products.
+- Leverage demographic targeting within the User segment.
+- Monitor revenue concentration risk across products and regions.
+
+The full interactive dashboard, data model, and DAX measures are available in the Power BI (.pbix) file included in this repository.
 
 ## **📂 Data Sourcing & Structure**
 
@@ -348,3 +366,10 @@ Strengthen retention and personalized marketing initiatives for the 41–50 and 
 Ensure high-demand drugs associated with older age groups remain optimally stocked within the direct channel.
 3. **Improve Data Visibility in Seller Channels**  
 Consider integrating downstream customer demographic data from seller partners to enable full demand modeling and advanced segmentation.
+
+## 📍 Conclusion
+This project demonstrates the application of structured data modeling and business intelligence techniques to evaluate pharmaceutical sales performance across multiple dimensions.
+The analysis highlights a business model driven predominantly by seller-based transactions, with direct user revenue concentrated among mature age groups. Revenue growth patterns indicate strong volume dependency, reinforcing the importance of demand forecasting and supply chain alignment.
+Geographic concentration in two primary markets introduces dependency exposure, while product-level insights reveal stable weekday revenue anchors that support operational predictability.
+By integrating fact and dimension tables within a star schema model and leveraging calculated measures, the dashboard enables dynamic performance monitoring across revenue, profitability, customer segmentation, and temporal trends.
+This case study illustrates the ability to translate complex transactional datasets into actionable strategic insights that inform decision-making in revenue optimization, market expansion, and performance management.
