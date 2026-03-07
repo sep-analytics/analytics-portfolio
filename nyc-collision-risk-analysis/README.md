@@ -80,19 +80,19 @@ The analysis was structured across the following dimensions:
 - Used the **MAX function** to identify peak collision months across the 2-year period
 - Calculated **Year-Over-Year (YoY)** change to measure period-on-period collision trends
 
-![](./https://github.com/sep-analytics/analytics-portfolio/blob/main/nyc-collision-risk-analysis/images/backend_analysis2.png)
+![](https://github.com/sep-analytics/analytics-portfolio/blob/main/nyc-collision-risk-analysis/images/backend_analysis2.png)
 
 ---
 **Data Referencing**
 - Used **INDEX/MATCH** functions to reference and extract specific data points across tables
 
-![](./https://github.com/sep-analytics/analytics-portfolio/blob/main/nyc-collision-risk-analysis/images/backend_analysis4.png)
+![](https://github.com/sep-analytics/analytics-portfolio/blob/main/nyc-collision-risk-analysis/images/backend_analysis4.png)
 
 ---
 **Heatmap Construction**
 - Built a separate array as the data foundation
-- Applied **Conditional Formatting** to visualise collision concentration across time intervals
+- Applied **Conditional Formatting** to visualise collision concentration across time interval
 
-![](./https://github.com/sep-analytics/analytics-portfolio/blob/main/nyc-collision-risk-analysis/images/backend_analysis3.png)
+ ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/nyc-collision-risk-analysis/images/backend_analysis3.png) 
 
    
