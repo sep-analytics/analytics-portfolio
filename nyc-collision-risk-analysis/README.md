@@ -26,7 +26,7 @@ responsible for nearly **64% of dangerous collisions**, while
 A significant data gap -- **59,549 unspecified collisions** -- further limits
 the precision of targeted interventions.
 
-Road-user analysis reveals a critical disparity — **Motorists dominate
+Road-user analysis reveals a critical disparity -- **Motorists dominate
 injuries** *(81,428)*, yet **Pedestrians bear the highest fatality burden**
 *(286 deaths)*, underscoring the urgent need for pedestrian-first
 infrastructure investment across the city.
@@ -37,8 +37,8 @@ season peaks.
 
 > 🎯 The data is clear -- NYC's collision crisis is not random. It is
 > **predictable, seasonal, and behavioural.** Targeted enforcement,
-> infrastructure investment, and proactive public awareness — deployed
-> at the right time, in the right places — can meaningfully reduce
+> infrastructure investment, and proactive public awareness -- deployed
+> at the right time, in the right places -- can meaningfully reduce
 > fatalities and injuries across the city.
 
 ## 📦 Data Source
@@ -338,20 +338,20 @@ and the data spoke clearly. New York City's motor vehicle collision crisis
 is not a matter of chance. It is **patterned, predictable, and preventable.**
 
 Across **238,421 collisions**, the evidence consistently points to the same
-culprits — **dangerous driving behaviours, high-risk time windows, seasonal
+culprits -- **dangerous driving behaviours, high-risk time windows, seasonal
 surges, and vulnerable road users bearing a disproportionate cost.** Each
 dimension of this analysis converges on a single truth: targeted,
 well-timed intervention saves lives.
 
 The NYPD and city authorities are not without direction. The data provides
-a clear roadmap — **enforce harder in April through June, prioritise
+a clear roadmap -- **enforce harder in April through June, prioritise
 Fridays between 4PM and 8PM, protect pedestrians, close the data gap on
 unspecified collisions, and build safety campaigns around seasonal rhythms.**
 
 What this project demonstrates above all is the power of data analytics
-in transforming raw collision records into **actionable intelligence** —
+in transforming raw collision records into **actionable intelligence** --
 turning numbers into narratives, and narratives into decisions that can
 shape safer streets for every New Yorker.
 
 > *"The streets of New York City don't have to be this dangerous.
-> The data shows us where to look — now it's time to act."*
+> The data shows us where to look,now it's time to act."*
