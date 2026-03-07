@@ -96,3 +96,28 @@ The analysis was structured across the following dimensions:
  ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/nyc-collision-risk-analysis/images/backend_analysis3.png) 
 
    
+## 📊 Dashboard Overview
+
+![](https://github.com/sep-analytics/analytics-portfolio/blob/main/nyc-collision-risk-analysis/images/dashboard_nyc.png)
+
+![](https://github.com/sep-analytics/analytics-portfolio/blob/main/nyc-collision-risk-analysis/images/brooklyn_nyc.png)
+
+The dashboard is a single-page interactive report filterable by **Borough** across
+Bronx, Brooklyn, Manhattan, Queens, Staten Island, and Unspecified.
+
+It is structured around **6 key components:**
+1. **KPI Cards** — Headline metrics displaying Total Collisions *(238,421)*,
+   Total Fatalities *(635)*, and Total Injuries *(116,226)*
+2. **Collision Peaks Trend** — Line chart showing monthly collision patterns,
+   highlighting that peaks consistently occur in **Early Summer** across all years
+3. **Year-Over-Year Decline** — Bar chart summarising YoY collision changes,
+   showing a **6.1% drop in 2022** and a **76.8% drop in 2023** *(partial year)*
+4. **Key Behaviors Driving Collision Risk** — Table ranking contributing factors
+   by total collisions and fatality risk percentage, with **Driver
+   Inattention/Distraction** and **Unspecified** leading in volume
+5. **Collision Hotspots by Time and Day** — Heatmap cross-referencing
+   time intervals against days of the week to surface high-risk windows
+6. **Collision Severity by Road-User Type** — Bar chart breaking down
+   injuries and fatalities across Motorists, Cyclists, and Pedestrians
+7. **Seasonal Collision Distribution** — Bar chart comparing collision
+   volume across Autumn, Spring, Summer, and Winter
