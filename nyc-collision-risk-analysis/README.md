@@ -7,7 +7,7 @@
 
 -📊 **Type:** Urban Traffic Safety Analytics
 
-## 📦 Data Source & Structure
+## 📦 Data Source
 
 **Source:** Public Dataset — [Maven Analytics](https://mavenanalytics.io/)
 
@@ -35,3 +35,64 @@ Single dataset containing multiple columns including `Collision ID`, `Date`, `Bo
  ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/nyc-collision-risk-analysis/images/Transformed_dt.png)
 
  ![](https://github.com/sep-analytics/analytics-portfolio/blob/main/nyc-collision-risk-analysis/images/transformed_dt2.png)
+
+## ❗ Problem Statement
+
+The **NYPD** (New york police department) is faced with a high volume of motor vehicle collision data across New York City,
+making it difficult to identify clear patterns and take targeted action.
+Between **2021 and March 2023**, NYC recorded:
+- 🚨 **635 fatalities**
+- 🤕 **116,226 injuries**
+The sheer volume of data and lack of actionable insight makes it challenging for authorities
+to effectively allocate resources, identify high-risk areas, and implement measures to reduce
+collision rates across the city.
+
+## 🎯 Project Objectives
+
+1. Identify **temporal collision patterns** across hourly, daily, and seasonal dimensions
+2. Pinpoint **high-risk boroughs and locations** with the highest collision frequency
+3. Uncover the **primary contributing factors** responsible for accidents across the city
+4. Analyse **casualty distribution** among cyclists, motorists, and pedestrians
+5. Deliver **data-driven recommendations** to support the NYPD in reducing fatalities and injuries across New York City
+
+## 🔍 Analysis Approach
+
+The analysis was structured across the following dimensions:
+1. **KPI Summary** — Surfaced high-level metrics including total collisions, persons injured, and fatalities
+2. **Time-Based Trends** — Analysed collisions across years and months to identify temporal patterns
+3. **Year-Over-Year Change** — Measured collision trend shifts between periods
+4. **Contributing Factors** — Grouped and ranked the primary causes of collisions across the city
+5. **Fatality Rate** — Assessed the severity of collisions relative to contributing factors
+6. **Geospatial Heatmap** — Visualised collision concentration to detect high-risk areas
+
+---
+
+## ⚙️ Methodology
+
+**KPI Extraction**
+- Used **Pivot Tables** *(SUM)* to calculate core KPIs — total collisions, injuries, and fatalities
+
+
+---
+**Time-Based Analysis**
+- Grouped data by **year and month** using Pivot Tables to uncover time-based trends
+- Applied an **Array Formula** to exclude the incomplete month of April as directed by the stakeholder
+- Used the **MAX function** to identify peak collision months across the 2-year period
+- Calculated **Year-Over-Year (YoY)** change to measure period-on-period collision trends
+
+![Time Analysis](./https://github.com/sep-analytics/analytics-portfolio/blob/main/nyc-collision-risk-analysis/images/backend_analysis2.png)
+
+---
+**Data Referencing**
+- Used **INDEX/MATCH** functions to reference and extract specific data points across tables
+
+![Index Match](./https://github.com/sep-analytics/analytics-portfolio/blob/main/nyc-collision-risk-analysis/images/backend_analysis4.png)
+
+---
+**Heatmap Construction**
+- Built a separate array as the data foundation
+- Applied **Conditional Formatting** to visualise collision concentration across locations
+
+![Heatmap](./images/heatmap.png)
+
+   
