@@ -148,3 +148,38 @@ and cyclist presence during warmer months.
 
 > 📊 Establish a **seasonal collision monitoring dashboard** to track
 > real-time trends during peak months and enable rapid response deployment.
+
+### 2. 🚗 Collision Risk Drivers
+
+**Insight:**
+| Category | Leading Factor | Value |
+|----------|---------------|-------|
+| Total Collisions | Unspecified | 59,549 Collisions |
+| Collision Fatalities | Failure to Yield Right-of-Way | 63.68% Dangerous Collisions |
+
+**Interpretation:**
+The dominance of **Unspecified** as the leading collision contributor signals a
+critical **data capture gap** — a significant volume of collisions are being
+recorded without a identified cause. This undermines the ability of authorities
+to take precise, targeted action.
+
+More critically, **Failure to Yield Right-of-Way** emerges as the deadliest
+driving behaviour, responsible for nearly **64% of dangerous collisions**.
+This pattern points to a widespread disregard for intersection rules, making
+it the single most life-threatening factor across NYC roads.
+
+**Strategic Recommendations:**
+> 📌 Deploy **targeted enforcement operations** at high-risk intersections,
+> with a specific focus on right-of-way violations which are strongly
+> associated with fatal outcomes.
+
+> 📢 Launch **public awareness campaigns** educating drivers on right-of-way
+> rules, intersection etiquette, and the fatal consequences of non-compliance.
+
+> 🚦 Invest in **intersection infrastructure improvements** such as clearer
+> road markings, signage, and signal timing adjustments at locations with
+> high right-of-way violation rates.
+
+> 📋 Address the **Unspecified data gap** by standardising collision reporting
+> procedures — ensuring officers capture contributing factors at every incident
+> to improve future analysis accuracy and policy targeting.
