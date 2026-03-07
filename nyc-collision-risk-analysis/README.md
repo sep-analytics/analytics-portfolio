@@ -63,7 +63,7 @@ The analysis was structured across the following dimensions:
 3. **Year-Over-Year Change** — Measured collision trend shifts between periods
 4. **Contributing Factors** — Grouped and ranked the primary causes of collisions across the city
 5. **Fatality Rate** — Assessed the severity of collisions relative to contributing factors
-6. **Geospatial Heatmap** — Visualised collision concentration to detect high-risk areas
+6. **Heatmap** — Visualised collision concentration to detect high-risk time intervals
 
 ---
 
@@ -80,19 +80,19 @@ The analysis was structured across the following dimensions:
 - Used the **MAX function** to identify peak collision months across the 2-year period
 - Calculated **Year-Over-Year (YoY)** change to measure period-on-period collision trends
 
-![Time Analysis](./https://github.com/sep-analytics/analytics-portfolio/blob/main/nyc-collision-risk-analysis/images/backend_analysis2.png)
+![](./https://github.com/sep-analytics/analytics-portfolio/blob/main/nyc-collision-risk-analysis/images/backend_analysis2.png)
 
 ---
 **Data Referencing**
 - Used **INDEX/MATCH** functions to reference and extract specific data points across tables
 
-![Index Match](./https://github.com/sep-analytics/analytics-portfolio/blob/main/nyc-collision-risk-analysis/images/backend_analysis4.png)
+![](./https://github.com/sep-analytics/analytics-portfolio/blob/main/nyc-collision-risk-analysis/images/backend_analysis4.png)
 
 ---
 **Heatmap Construction**
 - Built a separate array as the data foundation
-- Applied **Conditional Formatting** to visualise collision concentration across locations
+- Applied **Conditional Formatting** to visualise collision concentration across time intervals
 
-![Heatmap](./images/heatmap.png)
+![](./https://github.com/sep-analytics/analytics-portfolio/blob/main/nyc-collision-risk-analysis/images/backend_analysis3.png)
 
    
