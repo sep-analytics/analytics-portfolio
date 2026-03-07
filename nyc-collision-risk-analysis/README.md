@@ -115,9 +115,36 @@ It is structured around **6 key components:**
 4. **Key Behaviors Driving Collision Risk** — Table ranking contributing factors
    by total collisions and fatality risk percentage, with **Driver
    Inattention/Distraction** and **Unspecified** leading in volume
-5. **Collision Hotspots by Time and Day** — Heatmap cross-referencing
-   time intervals against days of the week to surface high-risk windows
-6. **Collision Severity by Road-User Type** — Bar chart breaking down
-   injuries and fatalities across Motorists, Cyclists, and Pedestrians
-7. **Seasonal Collision Distribution** — Bar chart comparing collision
-   volume across Autumn, Spring, Summer, and Winter
+
+
+## 💡 Insights & Recommendations
+
+### 1. 📅 Collision Peaks by Year & Month
+
+**Insight:**
+| Year | Peak Month | Total Collisions |
+|------|------------|-----------------|
+| 2021 | June 🔴 | 10,608 |
+| 2022 | June 🟡 | 9,471 |
+| 2023 | March 🟠 | 7,981 |
+
+**Interpretation:**
+Collision volumes consistently peak in the **early summer months**, with June
+recording the highest incident volumes in both 2021 and 2022. The 2023 peak
+shifted to March, likely reflecting the impact of partial-year data *(Jan–Mar)*.
+The recurring June pattern suggests a **seasonal behavioural trend** — likely
+driven by increased road activity, longer daylight hours, and higher pedestrian
+and cyclist presence during warmer months.
+
+**Strategic Recommendations:**
+> 🚨 Deploy **targeted enforcement operations** between April and June annually
+> to get ahead of seasonal collision spikes before they peak.
+
+> 📢 Launch **pre-summer public awareness campaigns** in March/April focused on
+> safe driving, pedestrian visibility, and cyclist road-sharing rules.
+
+> 🚦 Increase **traffic personnel presence** and signal optimisation at
+> high-frequency intersections during the April–June window.
+
+> 📊 Establish a **seasonal collision monitoring dashboard** to track
+> real-time trends during peak months and enable rapid response deployment.
