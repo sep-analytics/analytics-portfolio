@@ -39,7 +39,7 @@ This project demonstrates how transactional data can be leveraged to support str
 ## 🚓New York City Collision Risk Analysis
 📍 *Urban Traffic Safety Analytics Case Study*
  
-[View Project](./https://github.com/sep-analytics/analytics-portfolio/blob/main/nyc-collision-risk-analysis)
+[View Project](./nyc-collision-risk-analysis)
 
 A comprehensive **Microsoft excel data analytics project** analyzing **New York City motor vehicle collision data** to uncover accident patterns, collision hotspots, and key contributing factors across multiple dimensions.
 
