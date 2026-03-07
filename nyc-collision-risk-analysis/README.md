@@ -132,7 +132,7 @@ It is structured around **6 key components:**
 Collision volumes consistently peak in the **early summer months**, with June
 recording the highest incident volumes in both 2021 and 2022. The 2023 peak
 shifted to March, likely reflecting the impact of partial-year data *(Jan–Mar)*.
-The recurring June pattern suggests a **seasonal behavioural trend** — likely
+The recurring June pattern suggests a **seasonal behavioural trend**--likely
 driven by increased road activity, longer daylight hours, and higher pedestrian
 and cyclist presence during warmer months.
 
@@ -159,7 +159,7 @@ and cyclist presence during warmer months.
 
 **Interpretation:**
 The dominance of **Unspecified** as the leading collision contributor signals a
-critical **data capture gap** — a significant volume of collisions are being
+critical **data capture gap**--a significant volume of collisions are being
 recorded without a identified cause. This undermines the ability of authorities
 to take precise, targeted action.
 
@@ -181,5 +181,40 @@ it the single most life-threatening factor across NYC roads.
 > high right-of-way violation rates.
 
 > 📋 Address the **Unspecified data gap** by standardising collision reporting
-> procedures — ensuring officers capture contributing factors at every incident
+> procedures--ensuring officers capture contributing factors at every incident
 > to improve future analysis accuracy and policy targeting.
+
+### 3. 🗺️ Collision Hotspots by Time & Day
+
+**Insight:**
+- 🔴 **Highest Risk Time Interval:** 4PM – 8PM across all days
+- 🔴 **Highest Risk Day:** Friday *(37,496 Collisions)*
+
+**Interpretation:**
+The **4PM–8PM** window consistently records the highest collision volume across
+the week, aligning directly with the **evening rush hour**--a period marked by
+peak road congestion, driver fatigue after long work hours, and reduced
+visibility as daylight fades.
+
+Fridays amplify this risk further, recording the single highest collision count
+of any day. This is likely driven by a convergence of factors--**end-of-week
+traffic surges**, increased social activity, and what can best be described as
+the **"urban frenzy"** effect--a heightened state of road aggression,
+impatience, and distraction as commuters and city dwellers rush to transition
+from the work week into the weekend.
+
+**Strategic Recommendations:**
+> 🚔 Increase **traffic patrol deployment** during the 4PM–8PM window,
+> with heightened presence on Fridays at known congestion points.
+
+> 🚦 Implement **adaptive traffic signal controls** during peak evening hours
+> to improve traffic flow and reduce stop-start congestion that elevates
+> collision risk.
+
+> 📢 Run targeted **"Friday Drive Safe"** awareness campaigns across
+> digital platforms and transit media to remind commuters of elevated
+> risk before the weekend rush begins.
+
+> 🏙️ Collaborate with city planners to explore **staggered work hour
+> policies** to distribute evening traffic load and reduce the
+> concentration of vehicles during the 4PM–8PM peak.
