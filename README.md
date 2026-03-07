@@ -36,6 +36,32 @@ A comprehensive SQL-based analysis of restaurant menu and order data aimed at un
 
 This project demonstrates how transactional data can be leveraged to support strategic business decisions in the food service industry.
 
+## New York City Collision Risk Analysis
+ **Urban Traffic Safety Analytics Case Study**
+ 
+A comprehensive **Microsoft excel data analytics project** analyzing **New York City motor vehicle collision data** to uncover accident patterns, collision hotspots, and key contributing factors across multiple dimensions.
+
+### **Project Focus Areas**
+
+- Overall **collision risk metrics** *(total collisions, injuries, fatalities, and severity ratios)* with time-based comparisons  
+- Identification of **high-risk boroughs and locations** based on collision frequency  
+- Analysis of **primary contributing factors** responsible for accidents *(driver behavior, traffic violations, environmental conditions)*  
+- **Temporal collision patterns** including hourly, weekday, and seasonal trends  
+- Distribution of accidents by **vehicle types involved**  
+- **Geospatial collision concentration analysis** to detect accident hotspots  
+
+### **Project Value**
+
+This project demonstrates the ability to transform **large-scale urban transportation data** into actionable insights that support **data-driven road safety and urban planning decisions** in:
+
+- Traffic risk assessment  
+- Accident pattern monitoring  
+- Urban safety planning  
+- Public safety policy support
+
+
+
+
 ---
 
 ### **💊 Drug Sales Performance Dashboard**  
