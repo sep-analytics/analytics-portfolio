@@ -7,9 +7,6 @@
 
 -📊 **Type:** Urban Traffic Safety Analytics
 
-## 📦 Data Source
-
-**Source:** Public Dataset — [Maven Analytics](https://mavenanalytics.io/)
 
 ## 📋 Executive Summary
 
@@ -43,6 +40,10 @@ season peaks.
 > infrastructure investment, and proactive public awareness — deployed
 > at the right time, in the right places — can meaningfully reduce
 > fatalities and injuries across the city.
+
+## 📦 Data Source
+
+**Source:** Public Dataset — [Maven Analytics](https://mavenanalytics.io/)
 
 **Dataset Overview:**
 Single dataset containing multiple columns including `Collision ID`, `Date`, `Borough`,
